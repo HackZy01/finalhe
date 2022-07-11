@@ -2,6 +2,9 @@
 
 Push the h-encore exploit for PS VITA and PS TV through a Windows, macOS or Linux GUI.
 
+## Why is Debian broken?
+1.92 builds fine, but 1.93 doesn't, a commit I suspect is "Merge pull request soarqin#128 from CatKasha/patch-1" which was supposed to fix the Linux version but instead it made it uncompilable on Ubuntu 20.04 based distros as I tested
+
 ## Credits
 
 see [CREDITS.md](CREDITS.md)
