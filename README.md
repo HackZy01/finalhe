@@ -3,7 +3,7 @@
 Push the h-encore exploit for PS VITA and PS TV through a Windows, macOS or Linux GUI.
 
 ## Why is Debian broken?
-1.92 builds fine, but 1.93 doesn't, a commit I suspect is "Merge pull request soarqin#128 from CatKasha/patch-1" which was supposed to fix the Linux version but instead it made it uncompilable on Ubuntu 20.04 based distros as I tested
+1.92 builds fine, but newest 1.93 doesn't, commits I suspect are "Merge pull request soarqin#128 from CatKasha/patch-1" and "make project builds with Qt 5.15 and 6.x", because build before the second one worked fine
 
 ## Credits
 
@@ -19,7 +19,7 @@ see [CREDITS.md](CREDITS.md)
 
 ### Prebuilt binaries
 
-Download a pre-built executable binary below and follow instructions. Supported firmwares: 3.60, 3.61, 3.65-3.72
+Download a pre-built executable binary below and follow instructions. Supported firmwares: 3.60, 3.61, 3.65-3.72, 3.73-3.74
 
 - For Windows get the [latest release](https://github.com/soarqin/finalhe/releases/latest)
   - if you have not installed USB driver for PS Vita: install `QcmaDriver_winusb.exe` (also on the releases page) 
