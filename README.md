@@ -3,7 +3,7 @@
 Push the h-encore exploit for PS VITA and PS TV through a Windows, macOS or Linux GUI.
 
 ## Why is Debian broken?
-1.92 builds fine, but newest 1.93 doesn't, commits I suspect are "Merge pull request soarqin#128 from CatKasha/patch-1" and "make project builds with Qt 5.15 and 6.x", because build before the second one worked fine
+1.92 builds fine, but newest 1.93 doesn't, commits I suspect is "make project builds with Qt 5.15 and 6.x", because build before the second one worked fine
 
 ## Branches
 There are currently 2 branches DebianStable and DebianTest, those two reflect my suspiction of the problem DebianStable is before something messed up Debian, and Test is a test to see if it will work
